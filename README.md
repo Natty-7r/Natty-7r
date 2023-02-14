@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Natty fekadu</h1>
-<h3 align="center">a full stack developer</h3>
+<h3 align="center">a Full Stack Developer</h3>
 
 - 💬 Ask me about **react ,node js**
 
