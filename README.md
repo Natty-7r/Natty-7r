@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Natty fekadu</h1>
-<h3 align="center">I am full stack developer</h3>
+<h1 align="center">Hi 👋, I am Natty fekadu</h1>
+<h3 align="center">a full stack developer</h3>
 
-- 💬 Ask me about **react ,node js,**
+- 💬 Ask me about **react ,node js**
 
 - 📫 How to reach me **nati7fekadu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/natnael-fekadu-369453234/?lipi=urn%3ali%3apage%3aprofile_common_profile_index%3b9700a220-979a-4b57-8436-7a802eb98579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/natnael-fekadu-369453234/?lipi=urn%3ali%3apage%3aprofile_common_profile_index%3b9700a220-979a-4b57-8436-7a802eb98579" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/natty7fekadu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natty7fekadu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
