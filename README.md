@@ -16,10 +16,10 @@
 
 
 # projects
-mobile application : https://play.google.com/store/apps/details?id=com.cr2.amolelight&hl=en&gl=US
-Eccomerce application : https://www.deje.shop/
-Currenly Developing :https://etzembil.vercel.app/
-Company Webiste : https://deboengineering.com/
-Telegram Bot : https://t.me/AmoleDashenBot
-Currently Developing : https://t.me/kebedubot
+# mobile application : https://play.google.com/store/apps/details?id=com.cr2.amolelight&hl=en&gl=US
+# Eccomerce application : https://www.deje.shop/
+# Currenly Developing :https://etzembil.vercel.app/
+# Company Webiste : https://deboengineering.com/
+# Telegram Bot : https://t.me/AmoleDashenBot
+# Currently Developing : https://t.me/kebedubot
 
