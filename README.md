@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Natty fekadu</h1>
 <h3 align="center">a Full Stack Developer</h3>
 
-- 💬 Ask me about **react ,node js**
+**Web and Mobile Developer**
 
 - 📫 How to reach me **nati7fekadu@gmail.com**
 
