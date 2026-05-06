@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Natnael%20Fekadu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Addis%20Ababa%2C%20Ethiopia&descAlignY=52&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Building+fast%2C+scalable+digital+products;Full+Stack+Developer+%7C+4%2B+Years+Exp.;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+NestJS;Currently+%40+Safaricom+Ethiopia+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Building+fast%2C+scalable+digital+products;Full+Stack+Developer+%7C+4%2B+Years+Exp.;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+NestJS)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,103 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
 
-```typescript
-const natty = {
-  name:       "Natnael Fekadu",
-  role:       "Full Stack Developer",
-  location:   "Addis Ababa, Ethiopia 🇪🇹",
-  experience: "4+ years",
-  current:    "Safaricom Ethiopia 🚀",
-  education:  "BSc Software Engineering — Jimma University",
-  available:  true, // Open to freelance & full-time roles
-
-  skills: {
-    frontend:  ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    backend:   ["Node.js", "NestJS", "Express.js", "Spring Boot", "GraphQL"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-    tools:     ["Docker", "Git", "Postman", "Prisma ORM"],
-  },
-
-  contact: () => "nati7fekadu@gmail.com",
-};
-```
-
----
-
-## 🏢 Experience
-
-| Period | Company | Role |
-|--------|---------|------|
-| 05/2025 → Present | **Safaricom Ethiopia** | Full Stack Developer |
-| 2024 (11 months) | Ablaze Labs | Full Stack Developer |
-| 2023 (7 months) | Micro Sun Solutions | Full Stack Developer |
-| 2022–2023 (14 months) | Moneta Technologies (Finserv) | Full Stack Developer |
-| 2022 (4 months) | Debo Engineering | Developer |
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🩺 [MedQuizet](https://medquizet.com/)
-Medical exam preparation platform for students — quiz engines, progress tracking & curated study materials.
-
-`NestJS` `PostgreSQL` `Prisma` `Redis` `Meilisearch` `TypeScript`
-
-</td>
-<td width="50%">
-
-### 🗺️ [Meleket Gebeya](https://meleketgebeya.com/)
-Ethiopian business listing platform with owner dashboards, business stories & payment integration.
-
-`Next.js` `NestJS` `PostgreSQL` `Redis` `Stripe` `Tailwind`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⛵ [BoatBouncer](https://boatbouncer.com/)
-Boat rental & booking marketplace (San Francisco & USA) — real-time availability & Stripe payments.
-
-`React` `Node.js` `Express` `MongoDB` `Stripe`
-
-</td>
-<td width="50%">
-
-### 🤝 [PurelyGive](https://purelygive.com/)
-Charity & donation platform with campaign management, donor tracking & payment processing (US-based).
-
-`Next.js` `NestJS` `PostgreSQL` `Stripe` `Prisma`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💡 [Ablaze Labs Website](https://www.ablazelabs.com/)
-Animated corporate marketing site for a modern tech company.
-
-`Next.js` `TypeScript` `Framer Motion` `Tailwind`
-
-</td>
-<td width="50%">
-
-### 📱 MiniApps @ Safaricom
-Built mini-apps embedded in the **M-Pesa super app** plus internal dashboards consumed by ops teams.
-
-`Spring Boot` `Next.js` `TypeScript` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
